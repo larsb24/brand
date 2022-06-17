@@ -27,9 +27,9 @@ The “dahliaOS” logomark is to be used to refer to dahliaOS when there is not
 ## Banner
 
 <p align="center">
-  <img width="50%" src="assets/dahliaos/banner/monochrome_dark.svg#gh-dark-mode-only"/>
-  <img width="50%" src="assets/dahliaos/banner/monochrome_light.svg#gh-light-mode-only"/>
-  <img width="50%" src="assets/dahliaos/banner/colored.svg"/>
+  <img width="50%" src="https://github.com/larsb24/brand/blob/main/assets/dahliaos/banner/monochrome_dark.svg#gh-dark-mode-only"/>
+  <img width="50%" src="https://github.com/larsb24/brand/blob/main/assets/dahliaos/banner/monochrome_light.svg#gh-light-mode-only"/>
+  <img width="50%" src="https://github.com/larsb24/brand/blob/main/assets/dahliaos/banner/colored.svg"/>
 </p>
 
 The logotype is to be used when space allows to refer to dahliaOS, or it can be used before a product name to refer to a specific app/service of dahliaOS.
@@ -62,8 +62,8 @@ However, we restrict the usage of the dahliaOS name and marks:
 ## License
 
 <p align="left">
-  <img width="40%" src="assets/dahliaos/banner/monochrome_dark.svg#gh-dark-mode-only"/>
-  <img width="40%" src="assets/dahliaos/banner/monochrome_light.svg#gh-light-mode-only"/>
+  <img width="40%" src="https://github.com/larsb24/brand/blob/main/assets/dahliaos/banner/monochrome_dark.svg#gh-dark-mode-only"/>
+  <img width="40%" src="https://github.com/larsb24/brand/blob/main/assets/dahliaos/banner/monochrome_light.svg#gh-light-mode-only"/>
 </p>
 
 Copyright @ 2019-2022 - The dahliaOS Authors - contact@dahliaos.io
